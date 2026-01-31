@@ -7,3 +7,6 @@ Pour le TP4 je n'ai pas bien compris ce qu'il fallair faire dans le TP et par ma
 on peut aussi le tirer dessus pour les tuer a l'aide de l'arme.
 
 Pour ce qui est du TP5 mon drone arrive a me suivre sans probleme cependant l'animation que j'ai faite ne fonctionne pas donc je l'ai retirer car elle bloquait mon personnage.
+
+
+Mon travail ce trouve dans "my Work" et ma scene principale ce trouve dans "scene" et il s'appelle MainScene.
